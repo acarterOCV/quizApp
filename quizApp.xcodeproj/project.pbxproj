@@ -48,7 +48,6 @@
 				2F5C1438A2F025A602E45D76 /* Pods-quizApp.debug.xcconfig */,
 				CFDB2C20C8F0BD457D32D130 /* Pods-quizApp.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -337,7 +336,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = J638W5H5RB;
+				DEVELOPMENT_TEAM = 92WVD5PT5J;
 				INFOPLIST_FILE = quizApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -356,7 +355,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = J638W5H5RB;
+				DEVELOPMENT_TEAM = 92WVD5PT5J;
 				INFOPLIST_FILE = quizApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
